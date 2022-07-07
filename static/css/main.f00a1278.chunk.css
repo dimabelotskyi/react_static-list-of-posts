@@ -1,0 +1,2 @@
+.postList{list-style:none;display:flex;flex-direction:column}.postList__item{background-color:beige;border:2px solid #000;margin-bottom:20px}.postInfo__title{font-size:30px;text-transform:capitalize}.postInfo__body,.postInfo__title,.userInfo{text-align:center}.userInfo{font-size:20px;margin-bottom:20px}.commentSection{width:100%}.commentItem{margin:15px;border:1px dotted #000}
+/*# sourceMappingURL=main.f00a1278.chunk.css.map */
